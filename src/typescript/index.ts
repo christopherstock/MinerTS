@@ -1,4 +1,6 @@
 
+    // eslint-disable-next-line import/no-deprecated
+    import './de/mayflower/bz/css/global.less';
     import * as bz from './de/mayflower/bz';
 
     /** ****************************************************************************************************************
