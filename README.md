@@ -50,3 +50,19 @@ The following frontend shall appear now:
 
 All project code changes result in an immediate rebuild of the project by the Webpack Dev Server.
  The app is automatically reloaded in the browser after the build process has been finished.
+
+## Play online!
+
+You can also run the game here:
+
+
+
+Use the following keys:
+
+| Key   | Function           |
+| ------|:------------------:|
+| UP    | Move Up            |
+| DOWN  | Move Down          |
+| LEFT  | Move Left          |
+| RIGHT | Move Right         |
+| ENTER | Toggle camera zoom |
