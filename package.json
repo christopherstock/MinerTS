@@ -1,7 +1,7 @@
 {
-    "name": "block-out-ts",
+    "name": "miner-ts",
     "version": "1.0.0",
-    "description": "BlockOutTS",
+    "description": "MinerTS",
     "author": "Christopher Stock <christopher.stock@mayflower.de>",
     "license": "MIT",
     "main": "dist/index.html",
