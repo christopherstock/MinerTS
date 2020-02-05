@@ -1,6 +1,6 @@
 # MinerTS
 
-A remake of the classic MinerVGA using TypeScript and the babylon.js 3D engine.
+A remake of the classic MinerVGA using TypeScript and the [babylon.js](https://www.babylonjs.com/) 3D engine.
 
 ![babylon.js](https://github.com/christopherstock/MinerTS/raw/master/_ASSET/readme/logo_babylon-js.png)
 
@@ -17,7 +17,7 @@ A remake of the classic MinerVGA using TypeScript and the babylon.js 3D engine.
 
 ## Play online!
 
-You can also run the game here:
+You can play a hosted version of this project here:
 
 https://christopherstock.github.io/MinerTS/dist/
 
