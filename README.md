@@ -22,7 +22,7 @@ A remake of the classic MinerVGA using TypeScript and the babylon.js 3D engine.
 Miner is a game of rare earths mining. In the game, you assume the role of a miner in search of rare earths like silver,
  gold, and platinum. The goal is to collect enough cash to marry Mimi and retire.
 
-### Play Online!
+### Play the classic game online!
 
 https://www.playdosgames.com/play/miner-vga/
 
@@ -33,8 +33,6 @@ https://www.playdosgames.com/play/miner-vga/
 Clone the project repository via Git and execute the following command in the local project directory: 
 
 `npm install`
-
-<hr>
 
 ## Development
 
