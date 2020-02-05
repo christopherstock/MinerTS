@@ -153,7 +153,7 @@
         }
 
         /** ************************************************************************************************************
-        *   Being invoked when the browser window loses the application focue.
+        *   Being invoked when the browser window loses the application focus.
         ***************************************************************************************************************/
         private onWindowBlur() : void
         {

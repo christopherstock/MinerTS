@@ -40,7 +40,7 @@
         *   @param positionFirstPersonCamera The startup position for the follow camera.
         *
         *   @param targetFreeCamera          The target position for the free camera.
-        *   @param targetStationaryCamera    The target node     for the starionary camera.
+        *   @param targetStationaryCamera    The target node     for the stationary camera.
         *   @param targetFollowCamera        The target node     for the follow camera.
         *   @param targetFirstPersonCamera   The target mesh     for the first person camera.
         ***************************************************************************************************************/
@@ -245,7 +245,7 @@
         /** ************************************************************************************************************
         *   Returns the arc rotation camera from the system.
         *
-        *   @raram The arc rotating camera.
+        *   @param The arc rotating camera.
         ***************************************************************************************************************/
         public getArcRotateCamera() : BABYLON.ArcRotateCamera
         {
