@@ -15,6 +15,24 @@ A remake of the classic MinerVGA using TypeScript and the babylon.js 3D engine.
 
 <hr>
 
+## Play online!
+
+You can also run the game here:
+
+https://christopherstock.github.io/MinerTS/dist/
+
+Use the following keys:
+
+| Key   | Function           |
+| ------|:------------------:|
+| UP    | Move Up            |
+| DOWN  | Move Down          |
+| LEFT  | Move Left          |
+| RIGHT | Move Right         |
+| ENTER | Toggle camera zoom |
+
+<hr>
+
 ## MinerVGA 1989
 
 ![MinerVGA 1989](https://github.com/christopherstock/MinerTS/raw/master/_ASSET/readme/screenshot_old.jpg)
@@ -50,19 +68,3 @@ The following frontend shall appear now:
 
 All project code changes result in an immediate rebuild of the project by the Webpack Dev Server.
  The app is automatically reloaded in the browser after the build process has been finished.
-
-## Play online!
-
-You can also run the game here:
-
-
-
-Use the following keys:
-
-| Key   | Function           |
-| ------|:------------------:|
-| UP    | Move Up            |
-| DOWN  | Move Down          |
-| LEFT  | Move Left          |
-| RIGHT | Move Right         |
-| ENTER | Toggle camera zoom |
