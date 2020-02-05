@@ -8,7 +8,7 @@
     export class SettingEngine
     {
         /** The title. */
-        public  static  readonly    TITLE                                   :string             = 'BlockOutTS, (c) 2020 Mayflower GmbH, v.0.1';
+        public  static  readonly    TITLE                                   :string             = 'MinerTS, (c) 2020 Mayflower GmbH, v.1.1, MVP';
         /** The favicon. */
         public  static  readonly    FAVICON                                 :string             = bz.SettingResource.PATH_IMAGE_FAVICON + 'mayflower.ico';
         /** The loading logo. */

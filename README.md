@@ -5,9 +5,9 @@ A remake of the classic MinerVGA using TypeScript and the babylon.js 3D engine.
 ![babylon.js](_ASSET/readme/logo_babylon-js.png)
 
 ## Tech Stack
+- babylon.js 4.0.3
 - TypeScript 3.4.5
 - Webpack 4.40
-- babylon.js 4.0.3
 - Jest 24.9
 - TypeDoc 0.14
 - ESLint 6.8
@@ -17,7 +17,7 @@ A remake of the classic MinerVGA using TypeScript and the babylon.js 3D engine.
 
 ## MinerVGA 1989
 
-![MinerVGA 1989](_ASSET/readme/screen_minervga.jpg)
+![MinerVGA 1989](_ASSET/readme/screenshot.jpg)
 
 Miner is a game of rare earths mining. In the game, you assume the role of a miner in search of rare earths like silver,
  gold, and platinum. The goal is to collect enough cash to marry Mimi and retire.
