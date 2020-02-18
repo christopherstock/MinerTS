@@ -90,7 +90,7 @@ module.exports = ( env, argv ) => {
 
     config.devServer = {
         host: 'localhost',
-        port: 5000,
+        port: 1236,
         watchContentBase: true,
         publicPath: '/js/',
         contentBase: __dirname + '/dist/'

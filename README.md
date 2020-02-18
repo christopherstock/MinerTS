@@ -60,7 +60,7 @@ Run the Webpack Dev Server for building and executing the Application:
 
 The application can now be seen in the browser using the following address:
  
-`http://localhost:5000/`
+`http://localhost:1236/`
 
 The following frontend shall appear now:
 
